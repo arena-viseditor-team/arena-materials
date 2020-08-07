@@ -1,0 +1,27 @@
+{
+  "name": "@arena/utils",
+  "version": "1.0.0",
+  "description": "arena基础框架通用utils库",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-core/register",
+    "prepublish": "npm version patch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "geweitong",
+  "license": "ISC",
+  "dependencies": {
+    "user": "0.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.2.0",
+    "jsdom": "^16.3.0",
+    "lerna": "^3.22.1",
+    "mocha": "^8.1.1"
+  }
+}

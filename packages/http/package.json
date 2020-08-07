@@ -1,0 +1,27 @@
+{
+  "name": "@arena/http",
+  "version": "1.0.0",
+  "description": "arena materials for http",
+  "main": "./index.js",
+  "typings": "types/index.d.ts",
+  "scripts": {
+    "test": "node ./test/api.spec.js",
+    "prepublish": "npm version patch"
+  },
+  "keywords": [
+    "arena",
+    "vue"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "geweitong",
+  "license": "ISC",
+  "dependencies": {
+    "@arena/utils": "^1.0.0",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "moxios": "^0.4.0"
+  }
+}
