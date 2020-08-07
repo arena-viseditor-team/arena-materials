@@ -5,5 +5,5 @@
 ## 使用
 
 ```shell
-yarn add arena-http -S
+yarn add @arena/http -S
 ```

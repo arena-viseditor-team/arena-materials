@@ -1,12 +1,11 @@
 {
-  "name": "@arena/utils",
+  "name": "@arena-materials/utils",
   "version": "1.0.0",
   "description": "arena基础框架通用utils库",
   "main": "index.js",
   "module": "index.js",
   "scripts": {
-    "test": "mocha --require babel-core/register",
-    "prepublish": "npm version patch"
+    "test": "mocha --require babel-core/register"
   },
   "publishConfig": {
     "access": "public"

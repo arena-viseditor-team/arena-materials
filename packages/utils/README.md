@@ -5,8 +5,8 @@
 # 安装
 
 ```shell
-npm i arena-utils -S
-yarn add arena-utils -S
+npm i @arena/utils -S
+yarn add @arena/utils -S
 ```
 
 ## 使用

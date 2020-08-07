@@ -1,4 +1,4 @@
-import { isFunction, isUndefined } from 'arena-utils'
+import { isFunction, isUndefined } from '@arena/utils'
 
 function resolve ({ options, value }) {
   const { Http, LOADING } = options

@@ -1,11 +1,10 @@
 {
-  "name": "@arena/scss",
-  "version": "1.0.1",
+  "name": "@arena-materials/scss",
+  "version": "1.0.0",
   "description": "arena scss 工具库",
   "main": "src/mixins/mixin.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "npm version patch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "geweitong",
   "publishConfig": {

@@ -1,12 +1,11 @@
 {
-  "name": "@arena/http",
+  "name": "@arena-materials/http",
   "version": "1.0.0",
   "description": "arena materials for http",
   "main": "./index.js",
   "typings": "types/index.d.ts",
   "scripts": {
-    "test": "node ./test/api.spec.js",
-    "prepublish": "npm version patch"
+    "test": "node ./test/api.spec.js"
   },
   "keywords": [
     "arena",
@@ -18,7 +17,7 @@
   "author": "geweitong",
   "license": "ISC",
   "dependencies": {
-    "@arena/utils": "^1.0.0",
+    "@arena/utils": "^1.0.2",
     "axios": "^0.18.0"
   },
   "devDependencies": {

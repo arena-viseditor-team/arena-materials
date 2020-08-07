@@ -1,4 +1,4 @@
-import { isUndefined } from 'arena-utils'
+import { isUndefined } from '@arena/utils'
 /**
  *
  * 自动弹消息适配逻辑

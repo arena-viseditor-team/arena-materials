@@ -1,4 +1,4 @@
-import { isFunction } from 'arena-utils'
+import { isFunction } from '@arena/utils'
 
 async function resolve ({ options, value }) {
   const { Http, LOADING, transformResponse } = options
