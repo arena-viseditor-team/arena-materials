@@ -1,6 +1,6 @@
 {
   "name": "@arena-materials/http",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "arena materials for http",
   "main": "./index.js",
   "typings": "types/index.d.ts",
