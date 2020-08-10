@@ -1,6 +1,6 @@
 {
   "name": "@arena-materials/scss",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "arena scss 工具库",
   "main": "src/mixins/mixin.css",
   "scripts": {
