@@ -1,9 +1,9 @@
 # http
 
-> @arena/http for arena
+> @arena-materials/http for arena
 
 ## 使用
 
 ```shell
-yarn add @arena/http -S
+yarn add @arena-materials/http -S
 ```
