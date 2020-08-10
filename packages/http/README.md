@@ -1,6 +1,6 @@
 # http
 
-> arena-http for arena
+> @arena/http for arena
 
 ## 使用
 

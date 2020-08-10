@@ -1,4 +1,4 @@
-# arena-scss
+# @arena/scss
 
 > arena scss 工具库
 
