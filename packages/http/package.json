@@ -17,7 +17,7 @@
   "author": "geweitong",
   "license": "ISC",
   "dependencies": {
-    "@arena/utils": "^1.0.2",
+    "@arena-materials/utils": "^1.0.3",
     "axios": "^0.18.0"
   },
   "devDependencies": {
