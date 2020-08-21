@@ -1,0 +1,22 @@
+{
+  "name": "@arena-materials/sentry",
+  "version": "1.0.0",
+  "description": "arena materials for sentry",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arena",
+    "vue"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "geweitong",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/browser": "^5.21.1",
+    "@sentry/integrations": "^5.21.1"
+  }
+}
