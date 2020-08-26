@@ -10,12 +10,6 @@ yarn add @arena-materials/sentry -S
 
 ## 使用
 
-::: tip
-  `release` 配置以自动配置 无需手动在配置
-:::
-
-> 运行环境依赖与 Anne CLI  `anne-plugin-sentry`
-
 ```js
 import Sentry from '@arena-materials/sentry'
 
