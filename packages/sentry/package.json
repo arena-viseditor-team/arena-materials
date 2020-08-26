@@ -1,6 +1,6 @@
 {
   "name": "@arena-materials/sentry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "arena materials for sentry",
   "main": "./index.js",
   "scripts": {
