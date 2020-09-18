@@ -1,0 +1,25 @@
+{
+  "name": "@arena-materials/plugin-sentry",
+  "version": "1.0.0",
+  "description": "> @arena-materials/plugin-sentry for arena-materials",
+  "main": "lib/sentry.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "lodash": "^4.17.20",
+    "lodash.isregexp": "^4.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
